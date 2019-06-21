@@ -3,10 +3,12 @@
   "version": "1.0.0",
   "dependencies": {
     "jquery": "^2.2.3",
-    "normalize.css": "^4.1.1"
+    "normalize.css": "^4.1.1",
+    "npm": "^6.9.0"
   },
   "devDependencies": {
     "autoprefixer": "^6.3.6",
+    "browser-sync": "^2.26.7",
     "gulp": "^3.9.1",
     "gulp-postcss": "^6.1.1",
     "gulp-watch": "^4.3.5",
